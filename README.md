@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/jajuan.graham/viz/Top10Start/Top10Start?p
 I used data from February and July of 2024 to show the difference in data from two different timeframes.
 I used Python to clean and combine the data. I also cleaned and updated word phases and timelines to showcase appropriate dates and times. I removed any null or data that presented a zero value.
 
-Jupyter Notebook with data 
+Jupyter Notebook
 Combined data CSV was used to create the Tableau visuals
 
 Analysis
